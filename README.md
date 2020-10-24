@@ -1,5 +1,5 @@
 # Dash Board Interactions
-## the Dahsboar will contain plots that anaylze Real Estate in San Fransico from 2010-2106.
+## The Dahsboard will contain plots that anaylze Real Estate data from San Fransico thorugh the years 2010-2106.
 ### There will be four tabs:
   * Mapbox 
   * 10 Most Expensive Neighborhoods
