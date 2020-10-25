@@ -3,7 +3,7 @@
 
 ## The Dahsboard will contain plots that anaylze Real Estate data from San Fransico thorugh the years 2010-2106.
 ### There will be four tabs:
-  * Mapbox 
+  * San Fransico Map
   * 10 Most Expensive Neighborhoods
   * Sale Prices and Neighborhoods
   * Gross Rent and Average Prices over time
